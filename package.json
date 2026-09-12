@@ -1,0 +1,10 @@
+{
+  "name": "Laboratory 2",
+  "version": "1.0.0",
+  "description": "Aranzo, Geelan - Laboratory 2",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+   "start": "node main.js"
+  }
+}
